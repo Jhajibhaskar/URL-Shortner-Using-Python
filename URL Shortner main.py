@@ -1,10 +1,10 @@
 import pyshorteners
 
-url = input('Enter the url: ')
+url = input('Enter Any Webpage address to Short: ')
 
 
 def shortenurl(url):
     s = pyshorteners.Shortener()
-    print(s.tinyurl.short(url))
+    print('Your Shorted URL is: ',s.tinyurl.short(url))
 
 shortenurl(url)
