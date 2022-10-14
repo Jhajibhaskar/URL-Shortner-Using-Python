@@ -1,3 +1,4 @@
+#First run 'pip install pyshorteners' in terminal of pycharm then execute the below program
 import tkinter
 import pyshorteners
 
