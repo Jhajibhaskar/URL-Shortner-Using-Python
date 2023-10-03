@@ -11,7 +11,7 @@ Open the provided URL (usually http://localhost:8501) in your web browser.<br>
 Enter a long URL in the input field and click the "Shorten URL" button to get the shortened URL.
 
 This is a simple URL shortener application built with Tkinter(GUI) & Streamlit, a popular Python web app framework.<br> 
-The application allows users to input a long URL and get a shortened URL using the TinyURL API.<br>
+The application allows users to input a long URL and get a shortened URL using the TinyURL API.<br><br>
 To View the Content of url_shortener.db file visit https://inloop.github.io/sqlite-viewer/
 
 
