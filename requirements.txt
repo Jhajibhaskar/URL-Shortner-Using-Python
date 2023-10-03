@@ -1,3 +1,4 @@
 streamlit
-validators
 pyshorteners
+validators
+sqlite3
