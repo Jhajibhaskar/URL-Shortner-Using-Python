@@ -12,6 +12,7 @@ Enter a long URL in the input field and click the "Shorten URL" button to get th
 
 This is a simple URL shortener application built with Tkinter(GUI) & Streamlit, a popular Python web app framework.<br> 
 The application allows users to input a long URL and get a shortened URL using the TinyURL API.<br>
+To View the Content of url_shortener.db file visit https://inloop.github.io/sqlite-viewer/
 
 
 
