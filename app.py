@@ -5,7 +5,7 @@ import sqlite3
 
 # Function to create SQLite connection and table if not exists
 def create_connection():
-    conn = sqlite3.connect('url_shortener.db')
+    conn = sqlite3.connect('./url_shortener.db')
     c = conn.cursor()
     # Create table if not exists
     c.execute('''CREATE TABLE IF NOT EXISTS urls
